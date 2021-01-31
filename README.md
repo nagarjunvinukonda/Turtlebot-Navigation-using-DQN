@@ -2,7 +2,7 @@
 
 The aim of this project is to train the turtlebot to reach the goal without hitting the obstcales. This project is to understand DQN and how it is trained ledding turtlebot navigation. 
 
-# Setup to Rub:
+# Setup to Run:
 
 Set the TURTLEBOT3_MODEL in system environment
 * export TURTLEBOT3_MODEL=burger
