@@ -16,3 +16,4 @@ Launch the DQN training
 # References:
 * [TurtleBot traning with Machine Learning](https://emanual.robotis.com/docs/en/platform/turtlebot3/machine_learning/)
 * [Contrsuct TurtleBot Navigation using ML, OpenAI Gym](https://www.theconstructsim.com/machine-learning-openai-gym-ros-development-studio-2/)
+* [motion planner using Deep Deterministic Policy Gradient (DDPG) in gazebo](https://github.com/m5823779/MotionPlannerUsingDDPG)
