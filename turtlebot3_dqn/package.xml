@@ -7,7 +7,7 @@
   </description>
   <license>Apache 2.0</license>
   <author email="kkjong@robotis.com">Gilbert</author>
-  <maintainer email="pyo@robotis.com">Pyo</maintainer>
+  <maintainer email="nvinukonda@wpi.edu">Nagarjun</maintainer>
   <url type="website">http://wiki.ros.org/turtlebot3_machine_learning</url>
   <url type="emanual">http://turtlebot3.robotis.com</url>
   <url type="repository">https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning</url>
